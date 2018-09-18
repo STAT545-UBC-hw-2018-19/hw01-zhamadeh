@@ -1,3 +1,17 @@
+---
+title: "Hw01_gapminder.md"
+output:
+  word_document: default
+  pdf_document: default
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
 
 ## Part 2: R Markdown for gapminder data exploration
 
