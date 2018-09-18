@@ -1,6 +1,7 @@
 
 ## Part 2: R Markdown for gapminder data exploration
 
+This will detail some basic functions for extracting and visualizing information from the given dataframe: gapminder
 
 ```{r,gapminder}
 
@@ -20,8 +21,13 @@ head(gapminder)
 ```{r}
 str(gapminder)
 ```
+#### Retrieving a summary of the dataframe
 
-### Plotting
+```{r}
+summarize(gapminder)
+```
+
+### Visualizing data from the dataframe
 
 ```{r, echo=FALSE}
 plot(gapminder$lifeExp)
