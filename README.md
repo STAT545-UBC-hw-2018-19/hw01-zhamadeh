@@ -4,7 +4,7 @@
 
 **What is this for?**
 
-* This is a repository to demonstrate my Markdown capabilities and some basic data exploration on R
+* This is a repository to demonstrate my Markdown capabilities, introduce myself (below) and show some basic data exploration on R which can be found [here](https://github.com/STAT545-UBC-students/hw01-zhamadeh/blob/master/hw01-gapminder.Rmd)
 
 **Who am I?**
 
@@ -40,7 +40,6 @@ Michael Scott
 ## Assignments Page
 
 You can find the detailed instructions for this assignment by going to the [assignments](http://stat545.com/Classroom/assignments/) page 
-
 
 ## Golden Ears National Park
 
