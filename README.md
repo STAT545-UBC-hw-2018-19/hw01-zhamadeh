@@ -8,7 +8,7 @@
 
 **Who am I?**
 
-* My name is Zeid Hamadeh. This is my first year apart of UBC's Genome Science and Technology Program. 
+* My name is Zeid Hamadeh. This is my first year apart of *UBC's Genome Science and Technology Program*. 
 
 **Where I'm from?**
 
