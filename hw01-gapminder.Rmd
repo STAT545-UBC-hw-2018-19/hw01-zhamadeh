@@ -1,3 +1,8 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
 
 ```{r setup, echo=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
@@ -12,7 +17,6 @@ This will detail some basic functions for extracting and visualizing information
 Use the following command to access the gapminder dataframe in your working environment
 
 ```{r,gapminder, echo=TRUE}
-
 library(gapminder)
 ```
 
