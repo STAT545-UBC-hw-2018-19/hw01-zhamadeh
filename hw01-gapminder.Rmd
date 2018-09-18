@@ -1,6 +1,6 @@
 
 ```{r setup, echo=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## Part 2: R Markdown for gapminder data exploration
@@ -43,7 +43,7 @@ summary(gapminder)
 
 ### Visualizing data from the dataframe
 
-Here is a scatterplot of life expectancy
+Here is a scatterplot of life expectancies of countries in different continents
 
 ```{r, echo=TRUE}
 library(tidyverse)
