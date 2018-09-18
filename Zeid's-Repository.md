@@ -2,9 +2,13 @@
 
 ## Introduction
 
+**What is this for?**
+
+* This is a repository to demonstrate my Markdown capabilities and some basic data exploration on R
+
 **Who am I?**
 
-* My name is Zeid Hamadeh. This is my first year apart of UBC's Genome Science and Technology Program
+* My name is Zeid Hamadeh. This is my first year apart of UBC's Genome Science and Technology Program. 
 
 **Where I'm from?**
 
