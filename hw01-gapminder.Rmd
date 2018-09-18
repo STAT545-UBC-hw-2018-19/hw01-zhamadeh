@@ -1,45 +1,53 @@
----
-title: "Hw01_gapminder.md"
-output:
-  word_document: default
-  pdf_document: default
-  html_document:
-    df_print: paged
----
 
-```{r setup, include=FALSE}
+```{r setup, echo=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Part 2: R Markdown for gapminder data exploration
 
+This will detail some basic functions for extracting and visualizing information from the given dataframe: gapminder. There is a document titled hw01-gapminder.docx that incorporates the visual output of all the methods used below. 
 
-```{r,gapminder, echo=FALSE}
+### Inputing the gapminder dataframe
+
+Use the following command to access the gapminder dataframe in your working environment
+
+```{r,gapminder, echo=TRUE}
 
 library(gapminder)
 ```
 
 ### Extracting information about the dataframe 
 
-##### Viewing the first six lines 
+##### Viewing the header
 
-```{r, echo=FALSE}
+Use this command to view the first six observations of this dataframe
+
+```{r, echo=TRUE}
 head(gapminder)
 ```
 
 ##### Viewing the dataframe type
 
-```{r, echo=FALSE}
+The structure function will yield all the variable types
+
+```{r, echo=TRUE}
 str(gapminder)
 ```
+#### Retrieving a summary of the dataframe
 
-### Plotting
+The summary function will provide a brief summary of the data frame type and its varibles and observations
+
+```{r, echo=TRUE}
+summary(gapminder)
+```
+
+### Visualizing data from the dataframe
 
 Here is a scatterplot of life expectancy
 
-```{r, echo=FALSE}
-plot(gapminder$lifeExp)
+```{r, echo=TRUE}
+library(tidyverse)
+ggplot(data=gapminder)+geom_point(mapping = aes(x=continent, y=lifeExp))
 ```
-
 
 
