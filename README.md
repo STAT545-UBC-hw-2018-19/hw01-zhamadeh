@@ -36,3 +36,7 @@ Michael Scott
 
 > You miss 100% of the shots you don't take
 > - Wayne Gretsky
+
+## Assignments Page
+
+You can find the detailed instructions for this assignment by going to the [assignments](http://stat545.com/Classroom/assignments/) page or by navivgating to 'hw01_instructions'
