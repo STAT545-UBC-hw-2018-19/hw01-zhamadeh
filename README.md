@@ -4,7 +4,7 @@
 
 **What is this for?**
 
-* This is a repository to demonstrate my Markdown capabilities and some basic data exploration on R
+* This is a repository to demonstrate my Markdown capabilities, introduce myself (below) and show some basic data exploration on R which can be found [here](hw01-gapminder.rmd)
 
 **Who am I?**
 
