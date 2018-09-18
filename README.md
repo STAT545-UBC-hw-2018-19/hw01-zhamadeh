@@ -4,25 +4,21 @@
 
 **Who am I?**
 
-My name is Zeid Hamadeh. This is my first year apart of UBC's Genome Science and Technology Program
+* My name is Zeid Hamadeh. This is my first year apart of UBC's Genome Science and Technology Program
 
 **Where I'm from?**
 
-I just moved to Vancouver in June from London, Ontario where I completed my bachelors degree at Western University.
+* I just moved to Vancouver in June from London, Ontario where I completed my bachelors degree at Western University.
 
 ## Places I've Lived Before
 
-* Ottawa 
-  * from: 1996-2010
+|    **City**    | **Time** |
+|----------------|------------|
+| Ottawa         | 1996-2010  |
+| Toronto        | 2010-2014  |
+| London         | 2014-2018  |
+| Vancouver      | 2018-Pres  |
 
-* Toronto
-  * from: 2010-2014
-
-* London
-  * from: 2014-2018
-
-* Vancouver
-  * from: 2018-Present
 
 ## About Me
 
