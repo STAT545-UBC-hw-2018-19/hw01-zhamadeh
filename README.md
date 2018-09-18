@@ -1,5 +1,7 @@
 # Zeid's First Assignement for STAT545
 
+[goldenears](goldenears2.jpg)
+
 ## Introduction
 
 **Who am I?**
