@@ -1,0 +1,43 @@
+---
+title: "Hw01_gapminder.md"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+  word_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Part 2: R Markdown for gapminder data exploration
+
+
+```{r,gapminder}
+
+library(gapminder)
+```
+
+### Extracting information about the dataframe 
+
+##### Viewing the first six lines 
+
+```{r, echo=FALSE}
+head(gapminder)
+```
+
+##### Viewing the dataframe type
+
+```{r}
+str(gapminder)
+```
+
+### Plotting
+
+```{r, echo=FALSE}
+plot(gapminder$lifeExp)
+```
+
+
+
