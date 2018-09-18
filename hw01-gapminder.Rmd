@@ -1,10 +1,10 @@
 ---
 title: "Hw01_gapminder.md"
 output:
+  word_document: default
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
-  word_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Part 2: R Markdown for gapminder data exploration
 
 
-```{r,gapminder}
+```{r,gapminder, echo=FALSE}
 
 library(gapminder)
 ```
@@ -29,11 +29,13 @@ head(gapminder)
 
 ##### Viewing the dataframe type
 
-```{r}
+```{r, echo=FALSE}
 str(gapminder)
 ```
 
 ### Plotting
+
+Here is a scatterplot of life expectancy
 
 ```{r, echo=FALSE}
 plot(gapminder$lifeExp)
