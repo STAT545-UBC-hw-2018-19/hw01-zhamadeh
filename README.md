@@ -1,7 +1,5 @@
 # Zeid's First Assignement for STAT545
 
-[goldenears](goldenears2.jpg)
-
 ## Introduction
 
 **What is this for?**
@@ -41,24 +39,10 @@ Michael Scott
 
 ## Assignments Page
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 You can find the detailed instructions for this assignment by going to the [assignments](http://stat545.com/Classroom/assignments/) page 
-
-
-
-
-
-
-=======
-You can find the detailed instructions for this assignment by going to the [assignments](http://stat545.com/Classroom/assignments/) page or by navivgating to '''hw01_instructions'''
-=======
-You can find the detailed instructions for this assignment by going to the [assignments](http://stat545.com/Classroom/assignments/) page 
->>>>>>> 85a9e49f59810dc0085e9d9092185fb0d88511f4
 
 ## Golden Ears National Park
 
 Here is a picture of the mountain I hiked this summer
 
 ![goldenears](goldenears2.jpg)
->>>>>>> 330b377cc105fc7c27bfbfb4dba02ce8599cdf52
