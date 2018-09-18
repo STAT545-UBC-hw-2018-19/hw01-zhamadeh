@@ -41,6 +41,7 @@ Michael Scott
 
 ## Assignments Page
 
+<<<<<<< HEAD
 You can find the detailed instructions for this assignment by going to the [assignments](http://stat545.com/Classroom/assignments/) page 
 
 
@@ -48,3 +49,12 @@ You can find the detailed instructions for this assignment by going to the [assi
 
 
 
+=======
+You can find the detailed instructions for this assignment by going to the [assignments](http://stat545.com/Classroom/assignments/) page or by navivgating to '''hw01_instructions'''
+
+## Golden Ears National Park
+
+Here is a picture of the mountain I hiked this summer
+
+![goldenears](goldenears2.jpg)
+>>>>>>> 330b377cc105fc7c27bfbfb4dba02ce8599cdf52
